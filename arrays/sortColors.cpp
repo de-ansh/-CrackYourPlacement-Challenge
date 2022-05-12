@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//Dutch National flag algo
 void sortColors(int arr[], int n) {
         int low=0,mid=0;
         int high=n-1;
