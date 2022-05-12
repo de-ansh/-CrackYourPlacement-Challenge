@@ -22,7 +22,7 @@ public:
 };
 
 /*
-lass Solution {
+class Solution {
 public:
 
     // function to reverse any part of string from i to j (just one word or entire string)
