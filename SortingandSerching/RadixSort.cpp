@@ -40,7 +40,6 @@ void countSort(int arr[], int n, int exp)
 		arr[i] = output[i];
 }
 
-// The main function to that sorts arr[] of size n using
 // Radix Sort
 void radixsort(int arr[], int n)
 {
