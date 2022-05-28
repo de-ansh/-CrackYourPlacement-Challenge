@@ -8,3 +8,4 @@ Starting this from today
 
 
 #dat 2: 6/5/2022-> solved next 6 problems
+#day24: 28/5/2022-> starting with linked list
